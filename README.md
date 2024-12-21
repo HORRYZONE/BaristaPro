@@ -30,6 +30,8 @@ BaristaPro is a cutting-edge application that provides users with a comprehensiv
 
 Feel free to contribute to BaristaPro and help us make it even better!
 
+## 1.Project Initiation
+
 ## 2.Requirement Analysis
 
 ### i. Data Storage for CRUD Operations:
@@ -88,4 +90,6 @@ Evaluate the performance of these packages to ensure the app remains responsive 
 - Ensure the app's performance remains optimal on lower-end devices through Firebase Performance Monitoring.
 
 ### iv. Sequence Diagram & Screen Navigational Flow
+
+## 3.Planning
 
