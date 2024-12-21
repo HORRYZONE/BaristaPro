@@ -72,20 +72,20 @@ Evaluate the performance of these packages to ensure the app remains responsive 
 
 ---
 
-## ii. Compatibility with Chosen Platform
+### iii. Compatibility with Chosen Platform
 
-### a. Android Compatibility:
+#### a. Android Compatibility:
 - The app will be optimized for Android devices, ensuring it works across various screen sizes and resolutions.
 - **Material Design** principles will be followed to create a visually appealing and intuitive user interface.
 
-### b. Platform-Specific Features:
+#### b. Platform-Specific Features:
 - **Push Notifications**: Implement **Firebase Cloud Messaging (FCM)** to notify users about upcoming training sessions, new forum posts, or messages from trainers.
 - **Location Services**: Use Flutter's **location** package to help users find nearby coffee shops offering workshops or freelance opportunities.
 - **Google Maps Integration**: Display nearby locations with **google_maps_flutter** to enhance the user experience.
 
-### c. Testing:
+#### c. Testing:
 - Conduct extensive testing across a range of Android devices to identify and resolve any compatibility issues.
 - Ensure the app's performance remains optimal on lower-end devices through Firebase Performance Monitoring.
 
-## iii. Sequence Diagram & Screen Navigational Flow
+### iv. Sequence Diagram & Screen Navigational Flow
 
