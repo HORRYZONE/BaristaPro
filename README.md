@@ -34,8 +34,10 @@ Feel free to contribute to BaristaPro and help us make it even better!
 
 ### i. Our Mobile App Detail
 
-#### 1. title :
-#### 2. background of the problem,
+#### 1. title : BaristaPro 
+– The Gateway to Professional Coffee Training
+#### 2. background of the problem : 
+- Finding reasonably priced, easily accessible, and excellent training programs to advance their talents is frequently a challenge for coffee lovers and aspiring baristas. Traditional training programs can be costly, location-specific, and have a narrow focus, which puts a barrier between professionals who are willing to share their knowledge and learners. Professional coffee trainers and baristas, meanwhile, do not have a specific platform to advertise their services, engage with students, and demonstrate their abilities.
 #### 3. purpose or objective,
 #### 4. target user,
 #### 5. preferred platform,
