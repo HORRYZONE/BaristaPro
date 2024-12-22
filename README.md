@@ -45,7 +45,9 @@ Feel free to contribute to BaristaPro and help us make it even better!
    - A marketplace offering well chosen barista resources and gear.
    - networking possibilities in the coffee sector.
    - a route for students to obtain certificates and employment prospects.
-#### 4. target user,
+#### 4. target user :
+   #####Primary: Coffee enthusiasts, aspiring baristas, and home brewers who want to enhance their coffee-making skills.
+   #####Secondary: Professional baristas, coffee trainers, and coffee shop owners seeking skilled staff or freelance baristas.
 #### 5. preferred platform,
 #### 6. features and functionalities.
 
