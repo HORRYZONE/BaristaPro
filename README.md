@@ -32,6 +32,17 @@ Feel free to contribute to BaristaPro and help us make it even better!
 
 ## 1.Project Initiation
 
+### i. Our Mobile App Detail
+
+#### 1. title :
+#### 2. background of the problem,
+#### 3. purpose or objective,
+#### 4. target user,
+#### 5. preferred platform,
+#### 6. features and functionalities.
+
+### ii. Why and How do you come up with this mobile app.
+
 ## 2.Requirement Analysis
 
 ### i. Data Storage for CRUD Operations:
@@ -92,4 +103,6 @@ Evaluate the performance of these packages to ensure the app remains responsive 
 ### iv. Sequence Diagram & Screen Navigational Flow
 
 ## 3.Planning
+
+### i. Gantt chart
 
