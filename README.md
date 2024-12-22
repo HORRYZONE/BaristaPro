@@ -30,7 +30,7 @@ BaristaPro is a cutting-edge application that provides users with a comprehensiv
 
 Feel free to contribute to BaristaPro and help us make it even better!
 
-## 1.Project Initiation (danish)
+## 1. Project Initiation (danish)
 
 ### i. Our Mobile App Detail
 
@@ -43,7 +43,7 @@ Feel free to contribute to BaristaPro and help us make it even better!
 
 ### ii. Why and How do you come up with this mobile app.
 
-## 2.Requirement Analysis (fatin)
+## 2. Requirement Analysis (fatin)
 
 ### i. Data Storage for CRUD Operations:
 The app will utilize **Firebase Real-Time Database** for storing user profiles, training modules, booking information, and community forum posts. Firebase ensures real-time synchronization, allowing users to always see the latest data.
@@ -102,7 +102,9 @@ Evaluate the performance of these packages to ensure the app remains responsive 
 
 ### iv. Sequence Diagram & Screen Navigational Flow
 
-## 3.Planning (mazidah)
+## 3. Planning (mazidah)
 
 ### i. Gantt chart
+
+## 4. References
 
