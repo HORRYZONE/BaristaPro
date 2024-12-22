@@ -35,7 +35,7 @@ Feel free to contribute to BaristaPro and help us make it even better!
 ### i. Our Mobile App Detail
 
 #### 1. title : BaristaPro :
-   – The Gateway to Professional Coffee Training
+   - The Gateway to Professional Coffee Training
 #### 2. background of the problem : 
    - Finding reasonably priced, easily accessible, and excellent training programs to advance their talents is frequently a challenge for coffee lovers and aspiring baristas. Traditional training programs can be costly, location-specific, and have a narrow focus, which puts a barrier between professionals who are willing to share their knowledge and learners. Professional coffee trainers and baristas, meanwhile, do not have a specific platform to advertise their services, engage with students, and demonstrate their abilities.
 #### 3. purpose or objective :
@@ -48,8 +48,32 @@ Feel free to contribute to BaristaPro and help us make it even better!
 #### 4. target user :
    ##### Primary: - Coffee enthusiasts, aspiring baristas, and home brewers who want to enhance their coffee-making skills.
    ##### Secondary: - Professional baristas, coffee trainers, and coffee shop owners seeking skilled staff or freelance baristas.
-#### 5. preferred platform,
-#### 6. features and functionalities.
+#### 5. preferred platform :
+   - Native mobile app approach with iOS and Android compatibility to maximize accessibility.
+#### 6. features and functionalities :
+Key Features  
+   ##### Training Modules:  
+   - Provide step-by-step courses covering coffee brewing techniques, latte art, equipment handling, and customer service.  
+   - Include beginner, intermediate, and advanced levels.  
+
+   ##### Expert Barista Profiles:  
+   - Showcase professional trainers with their qualifications, specialties, and availability.  
+   - Trainers can offer in-person or virtual workshops.  
+
+   ##### Booking and Scheduling:  
+   - Allow users to book one-on-one or group training sessions with experts.  
+
+   ##### Certification Programs:  
+   - Offer certificates upon completion of training modules, verified by industry professionals.  
+
+   ##### Marketplace for Resources:  
+   - A section where users can purchase coffee equipment, beans, and other barista essentials recommended by experts.  
+
+   ##### Community Forum:  
+   - Create a space for aspiring baristas and trainers to connect, share experiences, and discuss industry trends.  
+ 
+   ##### Freelance Opportunities:  
+   - Help certified baristas find job opportunities or freelance gigs by connecting them with cafes and coffee shops.
 
 ### ii. Why and How do you come up with this mobile app.
 
