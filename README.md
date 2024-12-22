@@ -77,6 +77,14 @@ Key Features
 
 ### ii. Why and How do you come up with this mobile app.
 
+   #### Why:
+Global interest in specialty coffee culture gave rise to the concept for BaristaPro. There is a definite need for professional and easily available coffee education given the growth of third-wave coffee businesses and home brewing hobbyists. Meeting this demand is challenging, though, due to a lack of training alternatives and the disconnect between learners and experts. BaristaPro has the ability to revolutionize the way coffee skills are taught and shared around the world by tackling these issues.
+
+   #### How:
+After studying the problems faced by trainers and coffee lovers, the features were created. The necessity for an organized forum where baristas could network and teach was brought to light by their feedback. Conversely, learners said that they wanted flexibility, affordability, and access to professional advice. The app was designed to close this gap by fusing industry tools, networking, and e-learning into a single, all-inclusive solution.
+
+The necessity for coffee professionals to build reputation and make money off of their knowledge, as well as trends in related e-learning platforms, led to the inclusion of particular features like certifications and a resource marketplace. Selecting a mobile-first platform guarantees ease of use and accessibility, fitting in with the routines of contemporary professionals and learners.
+
 ## 2. Requirement Analysis (fatin)
 
 ### i. Data Storage for CRUD Operations:
