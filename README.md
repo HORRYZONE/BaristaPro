@@ -151,4 +151,6 @@ Evaluate the performance of these packages to ensure the app remains responsive 
 
 
 ## 4. References
+1. Kvartalnyi, N., & Kvartalnyi, N. (2024, August 20). A guide to the application development Life cycle. Inoxoft |. https://inoxoft.com/blog/stages-of-app-development/
+2. OpenAI. (2024). ChatGPT (December 22, 2024). Retrieved from https://chat.openai.com/
 
