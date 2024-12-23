@@ -2,12 +2,12 @@
    BaristaPro
 </h1>
 <br>
-<p align="center">
+<!--<p align="center">
   <img src="path/to/your/logo.png" alt="BaristaPro Logo" width="200"/>
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="DIVIDER GIF" />
-</p>
+</p>-->
 
 <br>
 
