@@ -147,9 +147,8 @@ Evaluate the performance of these packages to ensure the app remains responsive 
 ## 3. Planning (mazidah)
 
 ### i. Gantt chart
-![Alt text](relative-path-to-images)
 ![BaristaPro](images/BaristaProGanttChart.png)
-<img src="images/BaristaProGanttChart.png" alt="Gantt Chart" width="400" />
+
 
 ## 4. References
 
