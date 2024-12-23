@@ -1,7 +1,6 @@
 <h1 align="center">
    BaristaPro
 </h1>
-<br>
 <!--<p align="center">
   <img src="path/to/your/logo.png" alt="BaristaPro Logo" width="200"/>
 </p>
@@ -159,6 +158,7 @@ d. Market Place Sequence Diagram
 
 e. Booking Sequence Diagram
 <img src="images/bookingSequenceD.png" alt="BaristaPro" width="400">
+<br>
 
 f. Community Forum Sequence Diagram
 <img src="images/ForumSequenceD.png" alt="BaristaPro" width="400">
