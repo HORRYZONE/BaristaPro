@@ -9,8 +9,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="DIVIDER GIF" />
 </p>-->
 
-<br>
-
 ## 👋 Hello, BaristaPro!<br>
 Welcome to the BaristaPro Project GitHub! We are excited to share our application designed for coffee lovers and professionals alike.
 
@@ -143,6 +141,27 @@ Evaluate the performance of these packages to ensure the app remains responsive 
 - Ensure the app's performance remains optimal on lower-end devices through Firebase Performance Monitoring.
 
 ### iv. Sequence Diagram & Screen Navigational Flow
+### Navigational Flow
+![BaristaPro](images/navigationalFlow.png)
+
+### Sequence Diagram
+a. Sign Up Sequence Diagram
+![BaristaPro](images/signUpSequenceD.png)
+
+b. Profile Sequence Diagram
+![BaristaPro](images/profileSequenceD.png)
+
+c. Free lancer Sequence Diagram
+![BaristaPro](images/freeLanceSequenceD.png)
+
+d. Market Place Sequence Diagram
+![BaristaPro](images/marketPlaceSequnceD.png)
+
+e. Booking Sequence Diagram
+![BaristaPro](images/bookingSequenceD.png)
+
+f. Forum Sequence Diagram
+![BaristaPro](images/ForumSequenceD.png)
 
 ## 3. Planning (mazidah)
 
