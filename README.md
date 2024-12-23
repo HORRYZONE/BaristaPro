@@ -147,20 +147,21 @@ Evaluate the performance of these packages to ensure the app remains responsive 
 ### Sequence Diagram
 a. Sign Up Sequence Diagram
 ![BaristaPro](images/signUpSequenceD.png)
+<img src="images/signUpSequenceD.png" alt="BaristaPro" width="400">
 
 b. Profile Sequence Diagram
 ![BaristaPro](images/profileSequenceD.png)
 
 c. Free lancer Sequence Diagram
-![BaristaPro](images/freeLanceSequenceD.png)
+![BaristaPro](images/freelanceSequenceD.png)
 
 d. Market Place Sequence Diagram
-![BaristaPro](images/marketPlaceSequnceD.png)
+![BaristaPro](images/marketPlaceSequenceD.png)
 
 e. Booking Sequence Diagram
 ![BaristaPro](images/bookingSequenceD.png)
 
-f. Forum Sequence Diagram
+f. Community Forum Sequence Diagram
 ![BaristaPro](images/ForumSequenceD.png)
 
 ## 3. Planning (mazidah)
