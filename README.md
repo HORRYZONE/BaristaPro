@@ -148,7 +148,8 @@ Evaluate the performance of these packages to ensure the app remains responsive 
 
 ### i. Gantt chart
 ![Alt text](relative-path-to-images)
-![BaristaPro](images/Screenshot 2024-12-23 101725.png)
+![BaristaPro](images/BaristaProGanttChart.png)
+<img src="images/BaristaProGanttChart.png" alt="Gantt Chart" width="400" />
 
 ## 4. References
 
