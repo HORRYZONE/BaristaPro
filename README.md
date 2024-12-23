@@ -151,18 +151,23 @@ a. Sign Up Sequence Diagram
 
 b. Profile Sequence Diagram
 ![BaristaPro](images/profileSequenceD.png)
+<img src="images/profileSequenceD.png" alt="BaristaPro" width="400">
 
 c. Free lancer Sequence Diagram
 ![BaristaPro](images/freelanceSequenceD.png)
+<img src="images/freelanceSequenceD.png" alt="BaristaPro" width="400">
 
 d. Market Place Sequence Diagram
 ![BaristaPro](images/marketPlaceSequenceD.png)
+<img src="images/marketPlaceSequenceD.png" alt="BaristaPro" width="400">
 
 e. Booking Sequence Diagram
 ![BaristaPro](images/bookingSequenceD.png)
+<img src="images/bookingSequenceD.png" alt="BaristaPro" width="400">
 
 f. Community Forum Sequence Diagram
 ![BaristaPro](images/ForumSequenceD.png)
+<img src="images/ForumSequenceD.png" alt="BaristaPro" width="400">
 
 ## 3. Planning (mazidah)
 
